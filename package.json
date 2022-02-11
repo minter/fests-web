@@ -14,7 +14,7 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss": ">=8.2.10",
     "xmlhttprequest-ssl": ">=1.6.2"
   }
